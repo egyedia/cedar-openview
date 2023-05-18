@@ -1,6 +1,6 @@
 {
   "name": "cedar-openview-src",
-  "version": "2.6.25-SNAPSHOT",
+  "version": "2.6.26-SNAPSHOT",
   "description": "OpenView written using Angular 7",
   "scripts": {
     "ng": "ng",
